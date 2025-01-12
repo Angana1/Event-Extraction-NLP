@@ -1,6 +1,6 @@
 # Joint Event-Relation Extraction using Encoder Decoder Architecture
 
-Natural Language Processing Course Project of Group 19 at IIT Kharagpur (Autumn'21) <br />
+Natural Language Processing Course Project of Group 19 at IIT Kharagpur (Autumn'21). For a detailed description of the methodology and results, please view the [Project Report](https://drive.google.com/file/d/1RU3zqNJhiAprZA6ns0cFddwAFUNB9RZf/view?usp=sharing).<br />
 
 Group Members: <br />
 - Angana Mondal (19IE10039)
