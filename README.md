@@ -3,10 +3,10 @@
 Natural Language Processing Course Project of Group 19 at IIT Kharagpur (Autumn'21) <br />
 
 Group Members: <br />
+- Angana Mondal (19IE10039)
 - Abhikhya Tripathy (19EC10085)
 - Debaditya Mukhopadhyay (19IE10036)
 - Aditya Basu (19IE10002)
-- Angana Mondal (19IE10039)
 
 
 ## Introduction <br />
