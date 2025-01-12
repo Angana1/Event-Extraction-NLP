@@ -14,8 +14,6 @@ Joint-event-extraction is a significant emerging application of NLP techniques w
 
 ## Model Architecture <br />
 An encoder-decoder based architecture for joint entity-relation extraction was proposed by [Tapas Nayak et al.](https://arxiv.org/pdf/1911.09886.pdf), and we further develop the architecture to deploy it to predicting ``` trigger```, ```argument``` and ```relation``` tuple (including the ```classes of the trigger and argument```). We also utilise pretrained BERT embeddings to preprocess our data.  <br />
-<br />
-![img1](https://lh3.googleusercontent.com/keep-bbsk/AGk0z-P0wlU-ehsSX8YPLAL4XYqVgKV5M_Xw96H5TpvsGWm6vdUqRGcuOHxZuz8p-oIqbHRIkdlVwbVg0-1dSGGXSDZG9SK9FSutYHfXGZI=s512)
 
 ## Datasets <br />
 The data is available at: https://drive.google.com/drive/u/1/folders/1fYP9PUQYRV0JWBa-N3CwuGkOCeBielT9 <br />
